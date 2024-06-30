@@ -1,0 +1,310 @@
+[
+  {
+      "id": 1,
+      "name": "Ford Mustang",
+      "year": "2023",
+      "price": "$50,000",
+      "img": "/ford-mustang.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "2000 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Diesel"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Manual"
+          }
+      ],
+      "type": "Convertible"
+  },
+  {
+      "id": 2,
+      "name": "Audi",
+      "year": "2023",
+      "price": "$70,000",
+      "img": "/audi.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "2500 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Petrol"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "Sedan"
+  },
+  {
+      "id": 3,
+      "name": "Mercedes",
+      "year": "2021",
+      "price": "$22,000",
+      "img": "/mercedes.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "3000 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Electric"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "SUV"
+  },
+  {
+      "id": 4,
+      "name": "Mini Cooper",
+      "year": "2023",
+      "price": "$96,000",
+      "img": "/mini-cooper.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "1500 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Hybrid"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Manual"
+          }
+      ],
+      "type": "Convertible"
+  },
+  {
+      "id": 5,
+      "name": "BMW H-Class",
+      "year": "2023",
+      "price": "$156,000",
+      "img": "/bmw.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "1500 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Hybrid"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Manual"
+          }
+      ],
+      "type": "Sedan"
+  },
+  {
+      "id": 6,
+      "name": "Audi Supercar",
+      "year": "2023",
+      "price": "$196,000",
+      "img": "/audi-supercar.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "1500 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Hybrid"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Manual"
+          }
+      ],
+      "type": "Convertible"
+  },
+  {
+      "id": 7,
+      "name": "Tesla Model S",
+      "year": "2022",
+      "price": "$80,000",
+      "img": "/tesla.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "1000 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Electric"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "Sedan"
+  },
+  {
+      "id": 8,
+      "name": "Chevrolet Suburban",
+      "year": "2023",
+      "price": "$60,000",
+      "img": "/chevrolet.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "2000 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Petrol"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "SUV"
+  },
+  {
+      "id": 9,
+      "name": "Ferrari",
+      "year": "2022",
+      "price": "$120,000",
+      "img": "/ferrari.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "800 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Petrol"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Manual"
+          }
+      ],
+      "type": "Convertible"
+  },
+  {
+      "id": 10,
+      "name": "Honda CR-V",
+      "year": "2023",
+      "price": "$35,000",
+      "img": "/honda.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "3000 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Petrol"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "SUV"
+  },
+  {
+      "id": 11,
+      "name": "Ford F-150",
+      "year": "2022",
+      "price": "$45,000",
+      "img": "/ford-suv.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "4000 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Diesel"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "Truck"
+  },
+  {
+      "id": 12,
+      "name": "Toyota Camry",
+      "year": "2023",
+      "price": "$30,000",
+      "img": "/toyota-camry.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "1200 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Petrol"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "Sedan"
+  },
+  {
+      "id": 13,
+      "name": "Lexus RX",
+      "year": "2023",
+      "price": "$55,000",
+      "img": "/lexus.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "2200 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Hybrid"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Automatic"
+          }
+      ],
+      "type": "SUV"
+  },
+  {
+      "id": 14,
+      "name": "Mazda MX-5",
+      "year": "2022",
+      "price": "$35,000",
+      "img": "/mazda.jpg",
+      "spec": [
+          {
+              "icon": "Gauge",
+              "label": "1800 Miles"
+          },
+          {
+              "icon": "Fuel",
+              "label": "Petrol"
+          },
+          {
+              "icon": "Joystick",
+              "label": "Manual"
+          }
+      ],
+      "type": "Convertible"
+  }
+]
