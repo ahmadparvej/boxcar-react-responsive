@@ -36,7 +36,7 @@ const OurTeam = () => {
   ];
 
   return (
-    <section className="p-8 md:p-16 mx-4 md:mx-12 text-center">
+    <section className="py-20 px-4 lg:mx-16 text-center">
       <h3 className="text-2xl font-bold">Our Team</h3>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 mt-8">
         {members.map((member) => (

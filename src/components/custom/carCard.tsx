@@ -37,7 +37,7 @@ const CarCard: React.FC<CarCardProps> = ({ car }) => {
         <div className="my-3 py-3 border-y-[0.5px] border-gray-500 flex justify-between">
           {car.spec.map(({ icon, label }) => (
             <div
-              className="flex flex-col justify-center items-center"
+              className="flex flex-col justify-center items-center text-sm"
               key={label}
             >
               {iconMapping[icon]}

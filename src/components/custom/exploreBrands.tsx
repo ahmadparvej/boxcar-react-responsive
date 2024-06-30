@@ -14,7 +14,7 @@ const ExploreBrands = () => {
   ];
 
   return (
-    <section className="p-4 md:p-20 mx-4 md:mx-20 rounded-lg bg-[#F9FBFC] text-center">
+    <section className="py-20 mx-4 lg:mx-16 rounded-lg bg-[#F9FBFC] text-center">
       <div className="w-full mb-10">
         <h3 className="text-3xl font-bold mb-4">Explore Our Premium Brands</h3>
         <p className="text-base text-gray-600">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>

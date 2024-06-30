@@ -25,7 +25,7 @@ const LatestBlogs = () => {
   ];
 
   return (
-    <section className="p-4 md:p-20 mx-4 md:mx-20">
+    <section className="py-20 mx-4 lg:mx-16">
       <h3 className="text-2xl font-bold text-center">Latest Blog Posts</h3>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
         {posts.map((post) => (
