@@ -44,7 +44,7 @@ const WhoIsBoxCar = () => {
       name: "Google",
       rating: 4.9,
       reviews: "Based on 2,345 reviews",
-      logo: "/google.svg",
+      logo: "/google-1-1.svg",
     },
     {
       name: "Birdeye",
@@ -65,7 +65,7 @@ const WhoIsBoxCar = () => {
       <div className="flex flex-col md:flex-row justify-center md:space-x-4 w-full md:w-2/3">
         {reviews.map((review) => (
           <div key={review.name} className="p-4 bg-white rounded-lg flex flex-col items-center mb-4 md:mb-0 md:flex-1">
-            <h4 className="text-lg font-bold mt-4 flex items-center">
+            <h4 className="text-lg font-bold mt-4 flex flex-col items-center">
               {review.rating.toFixed(1)}
               <span className="ml-2">{renderStars(review.rating)}</span>
             </h4>

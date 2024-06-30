@@ -19,7 +19,7 @@ const MostSearchCar = () => {
   const topFourCars = filterCarsByType(activeTab);
 
   return (
-    <section className="py-20 px-4 lg:px-40 bg-gray-50 rounded-lg">
+    <section className="py-20 px-4 lg:px-16 bg-gray-50 rounded-lg">
       <h3 className="text-2xl font-bold text-center">The Most Searched Cars</h3>
       <Tabs defaultValue="In Stock" className="mt-8">
         <TabsList className="flex justify-center">

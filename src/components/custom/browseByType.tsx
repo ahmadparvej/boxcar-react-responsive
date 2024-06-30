@@ -18,7 +18,7 @@ const BrowseByType = () => {
   ];
 
   return (
-    <section className="py-20 px-4 lg:px-40 text-center">
+    <section className="py-20 px-4 lg:px-16 text-center">
       <h3 className="text-2xl font-bold">Browse by Type</h3>
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-9 gap-4 mt-8">
         {carTypes.map(({ type, icon }) => (

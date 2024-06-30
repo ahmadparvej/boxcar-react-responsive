@@ -8,11 +8,11 @@ import { Button } from "@/components/ui/button";
 
 const CarServices = () => {
   return (
-    <section className="py-20 px-4 lg:px-40 bg-gray-50 rounded-lg">
+    <section className="py-20 px-4 lg:px-16 bg-gray-50 rounded-lg">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <Card className="bg-blue-100 p-8 md:p-16">
           <CardHeader>
-            <CardTitle>Are You Looking For a Car?</CardTitle>
+            <CardTitle>Are You Looking For a Car ?</CardTitle>
             <CardDescription>
               We are committed to providing our customers with exceptional
               service.
@@ -24,7 +24,7 @@ const CarServices = () => {
         </Card>
         <Card className="bg-pink-100 p-8 md:p-16">
           <CardHeader>
-            <CardTitle>Do You Want to Sell a Car?</CardTitle>
+            <CardTitle>Do You Want to Sell a Car ?</CardTitle>
             <CardDescription>
               We are committed to providing our customers with exceptional
               service.
